@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Remera",
+      "description": "Barata",
+      "price": "1500",
+      "img": "Sin Imagen",
+      "code": "abc123",
+      "stock": "150",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 1
+    },
+    {
+      "title": "Buzo",
+      "description": "Calidad",
+      "price": "2500",
+      "img": "Sin Imagen",
+      "code": "abc124",
+      "stock": "150",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 2
+    },
+    {
+      "title": "Zapatillas",
+      "description": "Blancas",
+      "price": "3500",
+      "img": "Sin Imagen",
+      "code": "abc125",
+      "stock": "150",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 3
+    },
+    {
+      "title": "Musculosa",
+      "description": "Veraniega",
+      "price": "5500",
+      "img": "Sin Imagen",
+      "code": "abc126",
+      "stock": "150",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 4
+    },
+    {
+      "title": "Medias",
+      "description": "3/4",
+      "price": "1000",
+      "img": "Sin Imagen",
+      "code": "abc127",
+      "stock": "150",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 5
+    },
+    {
+      "title": "Reloj",
+      "description": "Rolex",
+      "price": "10000",
+      "img": "Sin Imagen",
+      "code": "abc128",
+      "stock": "150",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 6
+    }
+  ]
